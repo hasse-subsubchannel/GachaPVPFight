@@ -93,6 +93,33 @@
    "champ": "",
    "gold": "",
    "result": ""
+  },
+  {
+   "id": "mw4k1m7z92s",
+   "name": "レギュラー戦 S",
+   "fmt": "個人戦",
+   "date": "2026-11-08T14:48",
+   "open": "2026-11-08T14:00",
+   "close": "2026-11-08T14:15",
+   "venue": "",
+   "vdesc": "",
+   "vimg": "",
+   "fee": 10,
+   "prize": 40,
+   "reward": "",
+   "limit": "",
+   "cap": 2,
+   "teamSize": 2,
+   "players": "",
+   "bracket": "",
+   "rules": "",
+   "desc": "",
+   "status": "受付前",
+   "winners": "",
+   "losers": "",
+   "champ": "",
+   "gold": "",
+   "result": ""
   }
  ],
  "events": [

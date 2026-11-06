@@ -151,7 +151,7 @@
    "price": "5",
    "desc": "Rare・Legend確定",
    "img": "",
-   "items": "ノーマルアイテム,Common,70\nレアアイテム,Rare,25\nレジェンドアイテム,Legend,5",
+   "items": "レアアイテム,Rare,75\nレジェンドアイテム,Legend,25",
    "note": "排出確率の合計は100%です。",
    "order": 2,
    "pub": "公開"
@@ -209,6 +209,17 @@
    "items": "ノーマルアイテム,Common,70\nレアアイテム,Rare,25\nレジェンドアイテム,Legend,5",
    "note": "排出確率の合計は100%です。",
    "order": 7,
+   "pub": "公開"
+  },
+  {
+   "id": "mw4lcrspjc5",
+   "name": "運試しガチャ",
+   "price": "1",
+   "desc": "コモンもしくはスーパーレジェンドのみ。\nスーパーレジェンドは1%。",
+   "img": "",
+   "items": "コモン,Common,99\nスーパーレジェンド,Legend,1",
+   "note": "",
+   "order": 8,
    "pub": "公開"
   }
  ],

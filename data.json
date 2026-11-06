@@ -54,7 +54,35 @@
    "m": 0
   }
  ],
- "matches": [],
+ "matches": [
+  {
+   "id": "mw4i6uql34b",
+   "name": "開幕戦",
+   "fmt": "個人戦",
+   "date": "2026-11-06T20:00",
+   "open": "",
+   "close": "",
+   "venue": "虹コロシアム",
+   "vdesc": "",
+   "vimg": "",
+   "fee": 10,
+   "prize": 30,
+   "reward": "",
+   "limit": "",
+   "cap": 3,
+   "teamSize": 0,
+   "players": "YB0513\nkoten_bread\nhasse_1108",
+   "bracket": "",
+   "rules": "",
+   "desc": "",
+   "status": "受付前",
+   "winners": "",
+   "losers": "",
+   "champ": "",
+   "gold": "",
+   "result": ""
+  }
+ ],
  "events": [],
  "gachas": [
   {

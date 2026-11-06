@@ -71,7 +71,7 @@
   {
    "id": "g1",
    "name": "レア以上確定ガチャ",
-   "price": "",
+   "price": "5",
    "desc": "Rare・Legend確定",
    "img": "",
    "items": "ノーマルアイテム,Common,70\nレアアイテム,Rare,25\nレジェンドアイテム,Legend,5",

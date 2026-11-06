@@ -7,9 +7,9 @@
  "seasons": [
   {
    "id": "s1",
-   "name": "シーズン1",
+   "name": "開幕シーズン",
    "start": "2026-11-06",
-   "end": "2026-12-06",
+   "end": "2026-12-01",
    "initGold": 100,
    "desc": "第1シーズン",
    "status": "進行中",
@@ -32,6 +32,18 @@
   {
    "id": "mw4hmo418gf",
    "name": "koten_bread",
+   "uuid": "",
+   "icon": "",
+   "joined": "2026-11-06",
+   "gold": 100,
+   "bank": 0,
+   "w": 0,
+   "l": 0,
+   "m": 0
+  },
+  {
+   "id": "mw4hn5hl2g4",
+   "name": "YB0513",
    "uuid": "",
    "icon": "",
    "joined": "2026-11-06",

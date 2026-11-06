@@ -83,7 +83,17 @@
    "result": ""
   }
  ],
- "events": [],
+ "events": [
+  {
+   "id": "mw4i81frugg",
+   "title": "開幕シーズン終了",
+   "type": "シーズン",
+   "date": "2026-12-06",
+   "start": "",
+   "end": "",
+   "desc": ""
+  }
+ ],
  "gachas": [
   {
    "id": "g0",
